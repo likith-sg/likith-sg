@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Likith S G!
-- 👀 I’m interested in Software development, Innovation and seeking oppurtunities at startup.
+- 👀 I’m interested in Software development, Innovation and seeking oppurtunities at startups.
 - 🌱 I’m a Sophomore majoring in Computer Science and engineering.
 - 💞️ I’m looking to collaborate on OpenHouse, an upcoming game changer on how people view opensource; a git gud guide to open source.
 - 📫 You can reach me at likithsg1@gmail.com
