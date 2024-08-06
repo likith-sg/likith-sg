@@ -18,6 +18,7 @@
 <a href="https://linkedin.com/in/likith-sg-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="likith-sg-profile" height="30" width="40" /></a>
 <a href="https://instagram.com/likith_sg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="likith_sg" height="30" width="40" /></a>
 <a href="https://coddy.tech/user/e2Yj9dJrFRhFkWRfgIDkqNNfvHe2" target="blank"><img align="center" src="https://coddy.tech/images/logo.png" alt="coddy" height="30" width="40" /></a>
+<a href="https://likith-sg.github.io/Likith-Portfolio/" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/24/portfolio.png" alt="portfolio" height="30" width="40" /></a>
 </p>
 <p align="left">
   <strong>Check out my repositories on GitHub!</strong> All of my projects are open source. Feel free to explore and contribute.
