@@ -2,20 +2,27 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 * * * *' 
-  push:
-    branches:
-      - main
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch: # Allows manual triggering
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
 
-      - name: Update README with metrics
-        uses: anmol098/waka-readme-stats@master
-        env:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Update README
+      uses: platane/repo-card@v3
+      with:
+        repo: likith-sg/likith-sg
+        token: ${{ secrets.GH_TOKEN }}
+
+    - name: Commit and push changes
+      uses: EndBug/add-and-commit@v9
+      with:
+        author_name: 'GitHub Actions'
+        author_email: 'actions@github.com'
+        message: 'Update README with latest stats'
+        add: 'README.md'
