@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [VMI](https://github.com/likith-sg/VMI.git)
 
-- 🌱 I’m currently learning **Azure Cloud, MySQL**
+- 🌱 I’m currently learning **Azure Cloud**
 
 - 👨‍💻 All of my projects are available at [Portfolio Website](https://likith-sg.github.io/Likith-Portfolio/)
 
