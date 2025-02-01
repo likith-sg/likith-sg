@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=likith-sg" alt="likith-sg" /></a> </p>
 
-- 🔭 I’m currently working on [VMI](https://github.com/likith-sg/VMI.git)
+- 🔭 I’m currently working on [Celerity](https://github.com/likith-sg/Celerity) TimeLine - 6 months. Open Contributions Welcomed.
 
 - 🌱 I’m currently learning **Azure Cloud**
 
