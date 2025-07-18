@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Azure Cloud**
 
-- 👨‍💻 All of my projects are available at [Portfolio Website](https://likith-sg.github.io/Likith-Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://likith-sg-portfolio.vercel.app/)
 
 - 📫 How to reach me **likithsg1@gmail.com**
 
