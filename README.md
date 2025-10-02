@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Imugi](https://github.com/likith-sg/Imugi) 
 
-- 🌱 I’m currently learning **Azure Cloud**
+- 🌱 I’m currently learning **Google Cloud Platform**
 
 - 👨‍💻 All of my projects are available at [Portfolio Website](https://likith-sg-portfolio.vercel.app/)
 
