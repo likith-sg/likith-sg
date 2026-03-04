@@ -39,13 +39,16 @@ All of my projects are open source, feel free to explore and contribute
   
 # Activity  
   
-<div align="center">  
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=likith-sg&theme=material-palenight&hide_border=true" height="170"/>  
-&nbsp;&nbsp;&nbsp;  
-<img src="https://leetcard.jacoblin.cool/likith_sg?theme=dark" height="170"/>  
-  
-</div>
+<table align="center" border="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=likith-sg&theme=material-palenight&hide_border=true" height="170"/>
+    </td>
+    <td align="center">
+      <img src="https://leetcard.jacoblin.cool/likith_sg?theme=dark" height="170"/>
+    </td>
+  </tr>
+</table>
 
 
 # Connect With Me  
