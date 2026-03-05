@@ -6,7 +6,7 @@
 # Hi 👋, I'm Likith S G  
 ### A motivated Junior at RV University  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=300&duration=1500&color=367791&center=true&vCenter=true&width=600&lines=Computer+Science+Student;ML+Engineer;Researcher;Software+Engineer;Automation+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=300&duration=2000&color=367791&center=true&vCenter=true&width=600&lines=Computer+Science+Student;ML+Engineer;Researcher;Software+Engineer;Automation+Engineer" />
 
 </div>
 
@@ -20,7 +20,7 @@
 
 ## Insights  
 
-- 🔭 **Currently working on:** [Imugi](https://github.com/likith-sg/Imugi) — Agentic AI for Data Analytics  
+- 🔭 **Currently working on:** [Imugi](https://imugi.vercel.app/) — Agentic AI for Data Analytics  
 - 🌱 **Currently Learning:** [n8n](https://n8n.io/)
 - 📚 **Learning Resources:** [CodeVault](https://github.com/likith-sg/CodeVault) — Curated resources for C, Solidity, and Rust  
 - 📂 **Projects:** Explore my repositories on [GitHub](https://github.com/likith-sg) or visit my [Portfolio](https://likith-sg-portfolio.vercel.app/)  
