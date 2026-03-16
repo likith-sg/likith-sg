@@ -25,7 +25,7 @@
 - 📚 **Learning Resources:** [CodeVault](https://github.com/likith-sg/CodeVault) — Curated resources for C, Solidity, and Rust  
 - 📂 **Projects:** Explore my repositories on [GitHub](https://github.com/likith-sg) or visit my [Portfolio](https://likith-sg-portfolio.vercel.app/)  
 
-All of my projects are open source, feel free to explore and contribute   
+**All of my projects are open source, feel free to explore and contribute**  
 
 # Tech Stack  
   
