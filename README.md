@@ -4,7 +4,7 @@
 <div align="center">  
 
 # Hi 👋, I'm Likith S G  
-### A motivated Junior at RV University  
+### A Final Year Undergraduate at RV University  
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=300&duration=2000&color=367791&center=true&vCenter=true&width=600&lines=Computer+Science+Student;ML+Engineer;Researcher;Software+Engineer;Automation+Engineer" />
 
